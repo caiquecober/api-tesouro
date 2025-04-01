@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import datetime, timedelta
 
-st.set_page_config(page_title="Tesouro CKAN Explorer", layout="wide")
+st.set_page_config(page_title="Tesouro CKAN Explorer por Caíque Cober", layout="wide")
 
 st.title("📊 Tesouro Transparente CKAN Explorer")
 st.markdown("Explore and share open data packages from the Brazilian Treasury CKAN API.")
